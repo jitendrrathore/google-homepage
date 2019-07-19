@@ -1,1 +1,1 @@
-CSS/HTML Project - Google  Clone
+CSS/HTML Project - Google Homepage Clone
