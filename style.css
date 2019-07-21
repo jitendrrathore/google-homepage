@@ -37,7 +37,9 @@ li a:hover {
 .logo{
   margin-top:200px;
   margin-bottom:20px;
-  height:92px;
+}
+.googlelogo{
+  height:120px;
 }
 .bar{
   margin:0 auto;
