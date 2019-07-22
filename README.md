@@ -1,2 +1,5 @@
-CSS/HTML Project - Google Homepage Clone
-(Link - https://jitendrrathore.github.io/google-homepage/)
+# Google Homepage Clone
+A page written as an excersize for The Odin Project.
+## Languages
+HTML+CSS
+
